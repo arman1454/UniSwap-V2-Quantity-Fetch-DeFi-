@@ -48,4 +48,4 @@ const priceFetch=async(amount)=>{
 }
 
 humanFormat = "1"
-priceFetch(humanFormat)
+priceFetch(humanFormat) //adasdsadasdasdas
