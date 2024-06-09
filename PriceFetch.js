@@ -47,4 +47,5 @@ const priceFetch=async(amount)=>{
       console.log(humanOutput);
 }
 
-priceFetch("1")
+humanFormat = "1"
+priceFetch(humanFormat)
