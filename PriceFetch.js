@@ -47,4 +47,4 @@ const priceFetch=async(amount)=>{
       console.log(humanOutput);
 }
 
-priceFetch("100")
+priceFetch("1")
